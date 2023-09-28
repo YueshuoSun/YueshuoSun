@@ -1,3 +1,3 @@
-# yssun
+# Yueshuo Sun
 
-Hello!
+Hello! I'm Yueshuo Sun.
